@@ -12,6 +12,7 @@ Endpoint:
 
 ```http
 GET /clients/{clientId}/security-settings
+
 {
   "clientId": "12345",
   "mobileTimeoutMinutes": 15,
